@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\FlightSearch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\FlightSearch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\SeatSelection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\SeatSelection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\Register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\PaymentPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\PaymentPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\LogOut.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\src\\pages\\LogOut.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ucak_bileti\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\Login.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:10.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Contact.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\Contact.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Contact.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\Contact.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeatSelection.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\SeatSelection.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\SeatSelection.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\SeatSelection.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\SeatSelection.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Register.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\Register.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Register.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\Register.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Profile.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\Profile.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\Profile.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\Profile.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\PaymentPage.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\PaymentPage.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\PaymentPage.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\PaymentPage.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogOut.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\LogOut.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\LogOut.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\LogOut.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\LogOut.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:17:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightSearch.jsx",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\FlightSearch.jsx",
+              "RelativeDocumentMoniker": "ucak_bileti\\src\\pages\\FlightSearch.jsx",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\src\\pages\\FlightSearch.jsx",
+              "RelativeToolTip": "ucak_bileti\\src\\pages\\FlightSearch.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-27T04:16:59.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\index.html",
+              "RelativeDocumentMoniker": "ucak_bileti\\index.html",
+              "ToolTip": "C:\\Users\\Aytu\u011F\\Desktop\\beyda_react\\ucak_bileti\\index.html",
+              "RelativeToolTip": "ucak_bileti\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T04:16:17.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
